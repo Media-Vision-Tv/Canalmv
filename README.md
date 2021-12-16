@@ -1,5 +1,9 @@
 Joomla! CMS™ 
 ====================
+Media Visión TV
+Cesar Martínez Aparicio
+Digital Portal News in México Country, Record and Production Tv, Streaming live, Audio
+
 
 Build Status
 ---------------------
@@ -7,17 +11,6 @@ Build Status
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | [![Build Status](https://ci.joomla.org/api/badges/joomla/joomla-cms/status.svg?branch=4.0-dev)](https://ci.joomla.org/joomla/joomla-cms) | [![Build status](https://ci.appveyor.com/api/projects/status/ru6sxal8jmfckvjc/branch/4.0-dev?svg=true)](https://ci.appveyor.com/project/release-joomla/joomla-cms) | [![PHP](https://img.shields.io/badge/PHP-V7.2.5-green)](https://www.php.net/) | [![node-lts](https://img.shields.io/badge/Node-V12.0-green)](https://nodejs.org/en/) | [![npm](https://img.shields.io/badge/npm-v6.13.4-green)](https://nodejs.org/en/) |
 
-Overview
----------------------
-* This is the source of Joomla! 4.x.
-* Joomla's [Official website](https://www.joomla.org).
-* Joomla! 4.0 [version history](https://docs.joomla.org/Special:MyLanguage/Joomla_4.0_version_history).
-* Detailed changes are in the [changelog](https://github.com/joomla/joomla-cms/commits/4.0-dev).
-
-What is Joomla?
----------------------
-* [Joomla!](https://www.joomla.org/about-joomla.html) is a **Content Management System** (CMS) which enables you to build websites and powerful online applications.
-* It is a simple and powerful web server application which requires a server with PHP and either MySQL or PostgreSQL to run. You can find [full technical requirements here](https://downloads.joomla.org/technical-requirements).
 * Joomla! is **free and Open Source software** distributed under the GNU General Public License version 2 or later.
 
 Looking for an installable package?
@@ -76,4 +69,4 @@ Copyright
 ---------------------
 * (C) 2005 Open Source Matters, Inc. <https://www.joomla.org>
 * Distributed under the GNU General Public License version 2 or later
-* See [License details](https://docs.joomla.org/Special:MyLanguage/Joomla_Licenses)
+* See [License details](https://docs.joomla.org/Special:spa/Joomla_Licenses)
